@@ -1,3 +1,3 @@
-`/test.pcap`
+`/test.csv`
 #R code sample
-my_pcaps3 <- tbl(db, "dfs.testkey.`/test.pcap`")
+my_csv <- tbl(db, "dfs.testkey.`/test.csv`")
